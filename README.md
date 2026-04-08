@@ -1,5 +1,7 @@
 # Academic Website
 
+https://naataaniitsosie.github.io/academic-website/
+
 A professional academic website template with an industry experience section, perfect for academics with a background in industry.
 
 ## Features
